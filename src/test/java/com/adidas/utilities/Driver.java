@@ -1,3 +1,4 @@
+
 package com.adidas.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -72,5 +73,4 @@ public class Driver {
             driver = null;
         }
     }
-
 }
